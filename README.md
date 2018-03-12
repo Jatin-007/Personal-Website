@@ -1,5 +1,6 @@
 # Personal-Website
-Currently working on hosting my personal website using Google Cloud Services. It will be having 5 different sections
+Currently working on hosting my personal website using Google Cloud Services. It will be having 5 different sections.
+Testing my website on Firebase for now to easy manage and deploy of the website. 
 
 ###  About
 A section familiarizing a bit about me and my world
