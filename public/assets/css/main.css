@@ -1,6 +1,17 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
+	.project-section {
+		color: white;
+		background-color: rgba(0,0,0,0.125);
+	}
+
+	.project-image {
+		padding-top: 20px;
+		height: 100%;
+		width: 100%;
+	}
+
 /*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
@@ -139,6 +150,8 @@
 
 		a:hover {
 			border-bottom-color: transparent;
+			text-decoration: none;
+			color: white;
 		}
 
 	strong, b {
