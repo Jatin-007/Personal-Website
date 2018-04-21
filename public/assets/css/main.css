@@ -35,6 +35,9 @@
 	.pdf-button {
 		margin-bottom:10px;
 	}
+	.pdf-button:hover{
+		border: 1px double white;
+	}
 
 /*
 	Dimension by HTML5 UP
