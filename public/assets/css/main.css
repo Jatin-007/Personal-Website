@@ -4,12 +4,20 @@
 	.project-section {
 		color: white;
 		background-color: rgba(0,0,0,0.125);
+		margin-bottom: 15px;
 	}
 
 	.project-image {
 		padding-top: 20px;
 		height: 100%;
 		width: 100%;
+	}
+
+	.project-button {
+		color: rgba(0,0,0,1);
+		background-color: white;
+		margin-right: 10px;
+		border: 1px solid black;
 	}
 
 /*
