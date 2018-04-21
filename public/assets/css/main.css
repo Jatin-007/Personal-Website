@@ -19,7 +19,13 @@
 		margin-right: 10px;
 		border: 2px solid white;
 	}
-	
+
+	.project-card-header {
+		margin-bottom: 5px;
+		padding-bottom: 1px;
+		letter-spacing: 0.1rem;
+
+	}
 
 /*
 	Dimension by HTML5 UP
