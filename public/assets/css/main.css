@@ -5,10 +5,11 @@
 		color: white;
 		background-color: rgba(0,0,0,0.125);
 		margin-bottom: 15px;
+		padding: 2% 4% 0 2%;
 	}
 
 	.project-image {
-		padding-top: 20px;
+		margin-left: 5px;
 		height: 120%;
 		width: 100%;
 	}
@@ -37,6 +38,9 @@
 	}
 	.pdf-button:hover{
 		border: 1px double white;
+	}
+	.resume-body {
+		height: 100%;
 	}
 
 /*
