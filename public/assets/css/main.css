@@ -8,10 +8,18 @@
 		padding: 2% 4% 0 2%;
 	}
 
+	.navbar-section ul li a {
+		min-width: 6.0rem;
+	}
+
 	.project-image {
 		margin-left: 5px;
-		height: 120%;
+		height: 80%;
 		width: 100%;
+	}
+
+	#resume a {
+		text-decoration: none;
 	}
 
 	.project-button {
@@ -24,8 +32,6 @@
 	.project-card-header {
 		margin-bottom: 5px;
 		padding-bottom: 1px;
-		letter-spacing: 0.1rem;
-
 	}
 
 	.resume-section {
