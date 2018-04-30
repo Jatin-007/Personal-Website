@@ -8,6 +8,10 @@
 		padding: 2% 4% 0 2%;
 	}
 
+	.personal-image {
+		border-radius: 7px 7px;
+	}
+
 	.navbar-section ul li a {
 		min-width: 6.0rem;
 	}
