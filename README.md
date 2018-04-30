@@ -15,5 +15,6 @@ For tech recruiters, they can find my resume sitting ride in this page
 ###  Social Links
 For anyone who wants to checkout my social links 
 
-The portfolio website isn't ready yet. However, if you still want to check it out, the link is- ijatin.ca
+The portfolio website isn't ready yet. However, if you still want to check it out, the link is- 
+www.ijatin.ca
 If any feedback or any concerns, please feel free to reach out to me :)
