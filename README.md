@@ -1,6 +1,10 @@
 # Personal-Website
-Currently working on hosting my personal website using Google Cloud Services. It will be having 5 different sections.
-Testing my website on Firebase for now to easy manage and deploy of the website. 
+Working on deploying my portfolio website using Firebase services.
+Though it isn't ready yet. However, if you still want to check it out, the link is- 
+www.ijatin.ca
+If any feedback or concerns, please feel free to reach out to me :)
+
+The website contains 5 different sections which are-
 
 ###  About
 A section familiarizing a bit about me and my world
@@ -15,5 +19,3 @@ For tech recruiters, they can find my resume sitting ride in this page
 ###  Social Links
 For anyone who wants to checkout my social links 
 
-### Blog?!
-I am always hyped sharing my thoughts about everyday tech innovation which i would love to let other people know about as well. Not sure if i should add a blog page inside my personal website!
